@@ -1,2 +1,1 @@
-"This is File A" 
-Jomon & Vidya
+"This is File A" Ver 3
