@@ -1,1 +1,1 @@
-"This is File A" Ver 3(GIT INteg)
+"This is File A" Ver 3(GIT INtegration)
