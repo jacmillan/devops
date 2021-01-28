@@ -1,7 +1,2 @@
 "This is File B" V1
-<<<<<<< HEAD
-New feature b
-=======
-New feature b
-Ver 3
->>>>>>> feature
+
