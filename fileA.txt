@@ -1,3 +1,1 @@
-"This is File A" 
-Jomon & Vidya
-Version 2 Master
+"This is File A" Ver 3
