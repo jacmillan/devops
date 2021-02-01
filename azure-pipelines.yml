@@ -10,12 +10,9 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
-- task: PowerShell@2
+- task: CmdLine@2
   inputs:
-    targetType: 'inline'
     script: |
-      # Write your PowerShell commands here.
+      echo Write your commands here
       
-      Write-Host "Hello World"
+      echo Hello world
