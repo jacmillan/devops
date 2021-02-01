@@ -15,4 +15,4 @@ steps:
     script: |
       echo Write your commands here
       
-      echo Hello world & Alladin
+      echo "Hello world & Alladin"
